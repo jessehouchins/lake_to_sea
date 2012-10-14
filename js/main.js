@@ -4,10 +4,8 @@ require.config({
 
     "underscore": "libs/underscore.req.min",
     "backbone": "libs/backbone.req.min",
-
-    // Require.js Plugins
-    // text : "plugins/text",
-    // image : "plugins/image",
+    "text": "libs/text"
+    //, image : "plugins/image"
   }
 
 })
