@@ -8,7 +8,7 @@ function(_, Backbone){
   var Settings = Backbone.Model.extend({
 
     defaults: {
-      soundOn: true
+      muted: false
     },
     
     initialize: function(opts){
@@ -16,5 +16,7 @@ function(_, Backbone){
     }
     
   })
+
+  return Settings.instance || (Settings.instance = new Settings())
 
 })

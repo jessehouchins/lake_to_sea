@@ -205,6 +205,7 @@ define([
         subview.unbind().remove()
       })
       this.unbind().remove()
+      return this
     },
 
     // ## Lifecycle Methods
