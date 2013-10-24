@@ -1,9 +1,8 @@
 lake_to_sea
 ===========
 
-  [test](#test)
-  [Test](#Test)
-  [Test & weird](#Test-&-weird)
+  [Test](#test)
+  [Test & weird](#test-&-weird)
   
 
 
