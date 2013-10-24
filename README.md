@@ -1,11 +1,9 @@
 lake_to_sea
 ===========
 
-  [test][]
-  [Test][]
-  [Test & weird][]
-  [Named](#foo)
-  [Number](#1.7)
+  [test](#test)
+  [Test](#Test)
+  [Test & weird](#Test-&-weird)
   
 
 
